@@ -1,7 +1,7 @@
 # TODOApp
 my first complex todo App
 
-##Instructions
+## Instructions
 - clone this repo
 - place input file to <projectDirectory>\Data
 - run app 
